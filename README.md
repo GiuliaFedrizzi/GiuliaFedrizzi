@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm Giulia, PhD student in Fluid Dynamics at the University of Leeds. Currently working on simulating melt flow through solid crust using numerical modelling.
+I'm Giulia, a post-doc (research fellow) in Applied Maths at the University of Leeds. 
+
+Currently working on ice microstructures, using machine learning (CNNs) to predict their deformation history.
+
+My PhD was in Fluid Dynamics, simulating melt flow through solid crust using numerical modelling.
 
 I usually work with Python, but I also use some C++. Sometimes I like to play around with R and Julia.
 
