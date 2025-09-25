@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-I'm Giulia, a post-doc (research fellow) in Applied Maths at the University of Leeds. 
+I'm Giulia, a researcher in the hydrogen sector in the sustainable energy unit of the Fondazione Bruno Kessler, in Trento (Italy). 
 
-Currently working on ice microstructures, using machine learning (CNNs) to predict their deformation history.
+I use computational fluid dynamics (CFD) to model hydrogen flow.
+
+Before my current role, I was a post-doc (research fellow) in Applied Maths at the University of Leeds, where I worked on ice microstructures using machine learning (CNNs) to predict their deformation history.
 
 My PhD was in Fluid Dynamics, simulating melt flow through solid crust using numerical modelling.
 
-I usually work with Python, but I also use some C++. Sometimes I like to play around with R and Julia.
+I usually work with Python, but I also use some C++. Sometimes I like to play around with R and Julia (because it has the coolest name of them all).
 
 <!--
 **GiuliaFedrizzi/GiuliaFedrizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
